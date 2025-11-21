@@ -1,17 +1,19 @@
 # 💫 About Me
-I'm **Omar Gooda**, a **Mechatronics Engineer** deeply passionate about **AI, Machine Learning, Robotics, Computer Vision, and Embedded Systems**.  
-I love designing systems where **hardware and software work together** to build intelligent, interactive, and real-world solutions.  
-I focus on both **low-level embedded systems** (microcontrollers, sensors, motor drivers, real-time control) and **high-level AI & perception pipelines** (ML models, computer vision, ROS, deep learning).
+I'm **Omar Gooda**, a **Mechatronics Engineer** passionate about **AI, Robotics, Computer Vision, and Embedded Systems**.  
+I love building systems where **hardware and software merge** to create **intelligent, interactive, and practical solutions**.  
+I work on everything from **low-level embedded programming** (microcontrollers, motor drivers, sensors, real-time control, UART, SPI) to **high-level AI & perception pipelines** (deep learning, computer vision, ROS).
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17Kruzjn3V/?mibextid=wwXIfr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-gouda-52159b38b) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.a7med.Bis@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.a7med.Bis@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9?style=for-the-badge&logo=ros&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=white) 
@@ -25,9 +27,14 @@ I focus on both **low-level embedded systems** (microcontrollers, sensors, motor
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ESP32](https://img.shields.io/badge/ESP32-0074D9?style=for-the-badge) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![ATmega32](https://img.shields.io/badge/ATmega32-0057B7?style=for-the-badge) 
+![UART](https://img.shields.io/badge/UART-FF9800?style=for-the-badge) 
+![SPI](https://img.shields.io/badge/SPI-FF5722?style=for-the-badge) 
 ![Motors & Drivers](https://img.shields.io/badge/Motors%20%26%20Drivers-4CAF50?style=for-the-badge) 
 ![Sensors](https://img.shields.io/badge/Sensors-F44336?style=for-the-badge) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA?style=for-the-badge&logo=cmake&logoColor=white)
+![H-Bridges](https://img.shields.io/badge/H--Bridges-FF5722?style=for-the-badge) 
+![CMake](https://img.shields.io/badge/CMake-%23008FBA?style=for-the-badge&logo=cmake&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=omarAhmed200-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
